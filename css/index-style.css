@@ -1,0 +1,365 @@
+
+/* Header CSS */
+header {
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.div1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-top: 10px;
+    margin-right: 25px;
+}
+
+.div2 {
+    text-align: center;
+    padding-top: 24px;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 15px 0;
+    box-shadow: 5px 2px 20px 4px#ffaa00;
+    position: sticky;
+    top: 0;
+    transition: top 0.3s;
+}
+
+.ul1 {
+    list-style-type:none;
+    display: flex;
+    gap: 40px;
+    background-color: white;
+    padding-left: 32px;
+}
+
+.a1 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    transition: transform 0.3s;
+}
+
+.a1:hover {
+    color: blue;
+    transform: translateZ(10px);
+}
+
+.div3{
+    padding-right: 30px;
+    padding-top:12px;
+}
+
+.log {
+    background-color:black;
+    padding: 10px 30px;
+    border-radius: 48px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.log:hover {
+    color: white;
+    background-color: orange; 
+    transform: translateZ(5px); 
+}
+.butn {
+    background-color: #f97316;
+    padding: 10px 30px;
+    border-radius: 48px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.butn:hover {
+    color: white;
+    background-color: black; 
+    transform: translateZ(5px); 
+}
+ /*Header Done*/
+
+ /* Section 0 CSS */
+.sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div4 {
+    border: 2px solid grey;
+    padding-top: 90px;
+    width: 550px;
+    height: 500px;
+    padding-left: 20px;
+    border-radius: 50%;
+    box-shadow: 5px 2px 20px 4px#ffaa00;
+    margin:40px 30px 20px 0px;
+}
+
+.img1 {
+    height: 420px;
+    width: 470px;
+    padding-left: 30px;
+}
+
+.div5 {
+    text-align: left;
+}
+
+.p1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.head1 {
+    color: #fb923c;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.p2 {
+    width: 440px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+.div6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.a2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-decoration: underline;
+    color: #fb923c;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+/* Section 0 End */
+
+/*Section 1 CSS */
+.sec1 {
+    height: 750px;
+    padding-top: 10px;
+    background-image: linear-gradient(to right, #FFD7B5, #FFD7B5, #ffff);
+}
+.head2 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: #f67d1a; 
+    font-family: 'Poppins';
+    margin-bottom: 5px;
+    text-shadow: 1px 1px 1px floralwhite;
+}
+
+.div7 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.p3 {
+    text-align: center;
+    font-size: 20px;
+    width: 80%;
+    line-height: 1.5;
+    align-content: left;
+    margin-bottom:0%;
+}
+
+.div8 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80%;
+    padding-top: 9px;
+}
+
+.div9 {
+    padding-left: 14px;
+    padding-top: 40px;
+}
+
+.p4 {
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    text-shadow: 2px 1px 1px white;
+    margin:0px 60px 60px 60px;
+}
+
+.head3 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ff9900;
+    margin:60px;
+}
+
+.img2 {
+    height: 480px;
+    width: 480px;
+    border-radius: 50%;
+    box-shadow: 5px 2px 20px 4px#ffaa00;
+}
+
+.div10 {
+    width: 400px;
+    padding-top: 5px;
+    padding-right: 16px;
+}
+
+.p5 {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+    margin-left: 10px;
+}
+
+.div11{
+    padding-top:10px;
+    margin-bottom:-60px;
+}
+/* Section 1 End */
+
+/*Section 2 CSS */
+.sec2 {
+    height: 750px;
+    padding-top: 10px;
+    background-image: linear-gradient(to right, #ffff, #FFD7B5, #FFD7B5);
+}
+
+.sec3 {
+    height: 112%;
+    padding-left: 36px;
+    padding-top: 12px;
+}
+
+.div12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.div13 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.div14 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding-top: 10px;
+    margin:60px;
+}
+
+.div15 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:4px;
+}
+
+.div16{
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+    margin-bottom: 40px;
+}
+
+.butn1 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 32px;
+    padding-right: 32px;
+    border-width: 2px;
+    border-color: #ff9900;
+    border-style: solid;
+    border-radius: 48px;
+    font-size: 20px;
+    color: #ff9900;
+    font-weight: 600;
+}
+/* Section 2 End */
+
+
+/* Footer */
+footer {
+    height: 51vh;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #ffc042;
+}
+.div17 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.head4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.p6 {
+    font-size: 18px;
+}
+
+.p7 {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.div18 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.head5 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.div19 {
+    display: flex;
+    gap: 16px;
+}
+
+.img3 {
+    background-color: #fff;
+    border-radius: 9999px;
+    padding: 12px;
+    height: 24px;
+    width: 24px;
+}
+/* Footer End */
+
