@@ -1,2 +1,1 @@
-# Mca_minor_project
-minor project for 1st sem MCA
+Chalo Bus Pass system for managing bus passes efficiently. This project is a modular system, where I've implemented key components, including user registration, pass validation, payment processing. The project aims to simplify bus pass management, providing an intuitive, user-friendly experience. Contributions focus on developing core functionality while ensuring code efficiency and modularity.
