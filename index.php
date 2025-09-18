@@ -1,0 +1,201 @@
+<?php
+    include("./include/header.php");
+?>
+    <section class="sec">
+        <div class="div4">
+            <img src="Images\chalo3.png" class="img1">
+        </div>
+
+        <div class="div5">
+            <p class="p1">The New Way of Bus Travel</p>
+            <h2 class="head1">In Your City</h2>
+            <p class="p2">
+                 Chalo is India’s #1 bus transport technology company. Live track your
+                 bus on the Chalo App and get digital bus tickets on the Chalo Card.
+                 Your one stop solution for a convenient and hassle-free travel
+                 experience in India.
+            </p>
+            <div class="div6">
+                <button class="butn">
+                    <a href='https://play.google.com/store/apps/details?id=app.zophop&amp;hl=en" target="_blank"' style="text-decoration:none;color:white;">
+                    Download App</a>
+                </button>
+                <a href="#" class="a2">Try Chalo Now</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="sec1">
+        <div class="div11">
+            <h2 class="head2">
+                Chalo Card
+            </h2>
+            <div class="div7">
+                <p class="p3">
+                    Using Chalo Card gives you the wings to travel <br>all the day without
+                    any tension of travel costs. 
+                </p>
+            </div>
+        </div>
+        <div class="div8">
+            <div class="div9">
+                <h2 class="head3">Chalo Products</h2>
+                <p class="p4">
+                    Making Bus Travel<br>Better
+                </p>
+            </div>
+            <div style="padding-left:40px;">
+                <img src="Images\chalo4.png" class="img2"/>
+            </div>
+            <div class="div10">
+                <h2 class="head3">Never Wait At The Bus Stop Ever Again</h2>
+                <p class="p5">
+                    A safe and convinient way to travel by bus. No need to worry about
+                    carrying change for your bus travel ever again.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="sec2">
+        <div class="div11">
+            <h2 class="head2">
+                Mobile Bus Pass
+            </h2>
+            <div class="div7">
+                <p class="p3">
+                    Take control of your daily travel by knowing the live location 
+                    and live arrival time of your bus. Now you can plan exactly 
+                    when to leave for the bus stop, and never wait at the bus stop 
+                    ever again. 
+                </p>
+            </div>
+        </div>
+        <div class="div8">
+            <div class="div9">
+                <h2 class="head3">Mobile Bus Products</h2>
+                <p class="p4">
+                    Making Bus Travel<br>Better
+                </p>
+            </div>
+            <div style="padding-left:40px;">
+                <img src="Images\chalo-mobile-pass-img2.png" class="img2"/>
+            </div>
+            <div class="div10">
+                <h2 class="head3">Buy A Mobile Bus Pass</h2>
+                <p class="p5">
+                    Buy your mobile bus pass on the Chalo App, 
+                    and you will never have to visit the pass counter or wait 
+                    in the queue ever again.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cities -->
+    <section class="sec3">
+        <div class="div12">
+            <p style="font-size:24px;">22 Cities And Counting</p>
+            <h2 class="head3" style="margin: 10px;">Chalo Cities</h2>
+        </div>
+        <div class="div13">
+            <div class="div14">
+                <div class="div15">                        
+                    <img src="Images\City_Images\Agra.png">
+                    <p style="font-size:18px;">Agra</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Bhopal.png">
+                    <p style="font-size:18px;">Bhopal</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Indore.png">
+                    <p style="font-size:18px;">Indore</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Jabalpur.png">
+                    <p style="font-size:18px;">Jabalpur</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Kanpur.png">
+                    <p style="font-size:18px;">Kanpur</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Kochi.png">
+                    <p style="font-size:18px;">Kochi</p>
+                </div>
+            </div>
+
+            <div class="div13">
+                <div class="div15">
+                    <img src="Images\City_Images\Kolkata.png">
+                    <p style="font-size:18px;">Kolkata</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Lucknow.png">
+                    <p style="font-size:18px;">Lucknow</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\mangalore.png">
+                    <p style="font-size:18px;">Mangalore</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Mathura.png">
+                    <p style="font-size:18px;">Mathura</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Meerut.png">
+                    <p style="font-size:18px;">Meerut</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\Nagpur.png">
+                    <p style="font-size:18px;">Nagpur</p>
+                </div>
+            </div>
+            <div class="div13">
+                <div class="div15">
+                    <img src="Images\City_Images\belgaum.png">
+                    <p style="font-size:18px;">Belgaum</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\chennai.png">
+                    <p style="font-size:18px;">Chennai</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\guwahati.png">
+                    <p style="font-size:18px;">Guwahati</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\hubli.png">
+                    <p style="font-size:18px;">Hubli</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\udupi.png">
+                    <p style="font-size:18px;">Udupi</p>
+                </div>
+                <div class="div15">
+                    <img src="Images\City_Images\patna.png">
+                    <p style="font-size:18px;">Patna</p>
+                </div>
+            </div>
+            <div class="div13">
+                <div class="div15">
+                    <img src="Images\City_Images\mumbai.png">
+                    <p style="font-size:18px;">Mumbai</p>
+                </div>
+            </div>
+        
+            <div class="div16">
+                <button class="butn1">View All Citites</button>
+            </div>
+        </div>
+    </section>
+
+    <!--- Gallery Section(linking is done seperately)-->
+    <!--<iframe src="../chalo/gallery.html" width="100%" height="400"></iframe>-->
+    
+    <!-- Footer -->
+<?php
+    include("./include/footer.php");
+?>
+ 
